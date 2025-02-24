@@ -1,0 +1,3 @@
+﻿  ThreadHijackingFunctionExec.cpp
+C:\Users\s12\Documents\GitHub\MalwareDeveloped\ThreadHijacking\ThreadHijackingFunctionExec\ThreadHijackingFunctionExec\ThreadHijackingFunctionExec.cpp(66,1): warning C4715: 'getHandleProcessByPID': not all control paths return a value
+  ThreadHijackingFunctionExec.vcxproj -> C:\Users\s12\Documents\GitHub\MalwareDeveloped\ThreadHijacking\ThreadHijackingFunctionExec\x64\Debug\ThreadHijackingFunctionExec.exe
